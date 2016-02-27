@@ -1,0 +1,24 @@
+_repo: History-of-the-Catholic-Church-from-the-Renaissance-to-the-French-Revolution-Volume-2_2455
+creator:
+  author:
+    agent_name: MacCaffrey, James
+    birthdate: 1875
+    deathdate: 1935
+    gutenberg_agent_id: '894'
+    url: http://www.gutenberg.org/2009/agents/894
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2001-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2455'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Catholic Church -- History -- Modern period, 1500-'
+title: History of the Catholic Church from the Renaissance to the French Revolution
+  — Volume 2
+url: http://www.gutenberg.org/ebooks/2455
