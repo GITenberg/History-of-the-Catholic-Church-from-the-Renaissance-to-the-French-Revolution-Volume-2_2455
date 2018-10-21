@@ -1,5 +1,5 @@
 _repo: History-of-the-Catholic-Church-from-the-Renaissance-to-the-French-Revolution-Volume-2_2455
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -25,6 +25,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'BX'
 - !lcsh 'Catholic Church -- History -- Modern period, 1500-'
+- GITenberg
 title: History of the Catholic Church from the Renaissance to the French Revolution
   — Volume 2
 url: http://www.gutenberg.org/ebooks/2455
